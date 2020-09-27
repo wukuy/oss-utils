@@ -8,6 +8,10 @@
   "keywords": [
     "oss-utils"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wukuy/oss-utils.git"
+  },
   "author": "964453362@qq.com",
   "license": "ISC",
   "dependencies": {
